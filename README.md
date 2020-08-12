@@ -55,5 +55,5 @@
 </p>
 
 <p align="left">
-    Clonar projeto: git clone https://github.com/PedroHenrique-git/crud-php.git
+    Clonar projeto: git clone https://github.com/PedroHenrique-git/Api-Rest-Next-Level-Week-2.git
 </p>
