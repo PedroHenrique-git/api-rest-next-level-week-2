@@ -3,7 +3,7 @@
 <p align="left">
   Para iniciar a api use o comando: yarn start | npm start
   
-   - guia de como usar a api - 
+   guia de como usar a api 
   
    listar classes: http://localhost:sua_porta/classes?week_day=DiaDaSemana&subject=Materia&time=Hora
    
@@ -38,18 +38,18 @@
    
    json de exemplo:
    
-    {
-	  "user_id":1
-    }
+   {
+   	"user_id":1
+   }
     
-    aconselho que use o programa Insomnia para testar a api
+   aconselho que use o programa Insomnia para testar a api
    
 </p>
 
 <p align="left">
     <ul>
         <li><a href="https://nodejs.org/en/">🔗 NodeJs</a></li>
-        <li><a href="hhttps://www.sqlite.org/index.html">🔗 Sqlite</a></li>
+        <li><a href="https://www.sqlite.org/index.html">🔗 Sqlite</a></li>
         <li><a href="https://www.typescriptlang.org/">🔗 TypeScript</a></li>
     </ul>
 </p>
